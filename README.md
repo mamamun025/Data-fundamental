@@ -1,0 +1,1 @@
+These python files are example of data cleaning, exploration, manipulation and regression analysis. The data set used here can be found in this location : https://www.kaggle.com/austinreese/craigslist-carstrucks-data
